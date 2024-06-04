@@ -2,4 +2,4 @@
 Desenvolve Itabira
 Programação Básica com  Python
 PDITA 451 
-Dedicação e disciplina, destir jamais.
+Dedicação e disciplina, destir jamais desistir.
